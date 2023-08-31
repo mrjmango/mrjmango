@@ -32,3 +32,10 @@ my personal and school projects.
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+### 🧰 Courses Taken
+- Data Structures and Algorithms
+- Database Systems I
+● Web Applications
+● Computer Graphics
+● Computer Networks
