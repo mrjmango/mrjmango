@@ -1,4 +1,4 @@
-# Jericho Mangalindan
+# :desktop_computer: Jericho Mangalindan
 
 **`Computer Science`**
 
