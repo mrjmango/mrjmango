@@ -36,6 +36,6 @@ my personal and school projects.
 ### 🧰 Courses Taken
 - Data Structures and Algorithms
 - Database Systems I
-● Web Applications
-● Computer Graphics
-● Computer Networks
+- Web Applications
+- Computer Graphics
+- Computer Networks
